@@ -8,3 +8,4 @@
 10:34:47.171 [main] ERROR net.journaldev.NetJournalDevApp - NET :: JournalDev :: LEVEL :: NetJournalDevApp ERROR Message ::
 10:34:47.171 [main] ERROR net.journaldev.NetJournalDevApp - NET :: JournalDev :: LEVEL :: NetJournalDevApp ERROR Message ::
 10:34:47.171 [main] ERROR net.journaldev.NetJournalDevApp - NET :: JournalDev :: LEVEL :: NetJournalDevApp ERROR Message ::
+10:34:47.171 [main] FATAL net.journaldev.NetJournalDevApp - NET :: JournalDev :: LEVEL :: NetJournalDevApp ERROR Message ::
