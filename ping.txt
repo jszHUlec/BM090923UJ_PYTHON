@@ -1,0 +1,5 @@
+(
+    color: red,
+    widnow_number: 4,
+    price: 300,
+)
